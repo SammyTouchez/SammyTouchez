@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SammyTouchez
-- 👀 I’m interested in system development 
+- 👀 I’m interested in systems development 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on different projects involving systems development 
 - 📫 How to reach me touchezsammy@gmail.com
