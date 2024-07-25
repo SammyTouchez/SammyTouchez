@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SammyTouchez
-- 👀 I’m interested in systems development 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on different projects involving systems development 
+- 👀 I’m interested in systems development,web development and mobile app development
+- 🌱 I’m currently learning python and PHP
+- 💞️ I’m looking to collaborate on different projects involving systems development ,web development and mobile app development
 - 📫 How to reach me touchezsammy@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: ....
